@@ -11,7 +11,7 @@ package Latihan2;
  */
 public class KonstruktorSuperKelas {
     public static void main(String [] args){
-        Employ programer1 = new Employ ("12345678","Dhimas",16);
+        Employ programer1 = new Employ ("12345678","Franky",25);
         programer1.info();
     }
 }
